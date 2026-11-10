@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+screens/
+mock_watson.py
+make_screens.py
+*.log
